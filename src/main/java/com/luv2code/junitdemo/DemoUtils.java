@@ -1,5 +1,6 @@
 package com.luv2code.junitdemo;
 
+import java.util.Arrays;
 import java.util.List;
 
 public class DemoUtils {
@@ -59,5 +60,4 @@ public class DemoUtils {
         Thread.sleep(2000);
         System.out.println("Sleeping over");
     }
-
 }
